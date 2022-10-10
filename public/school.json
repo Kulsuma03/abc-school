@@ -1,0 +1,51 @@
+[
+    {
+      "id": "634308dc6c616cd5100aeca8",
+      "studentClass": 1,
+      "picture": "https://images.ctfassets.net/hrltx12pl8hq/7JnR6tVVwDyUM8Cbci3GtJ/bf74366cff2ba271471725d0b0ef418c/shutterstock_376532611-og.jpg",
+      "age": 9,
+      "name": "Acosta Edwards"
+    },
+    {
+      "id": "634308dc15b9a05a438f6ee0",
+      "studentClass": 1,
+      "picture": "https://ibb.co/5F6FFCS",
+      "age": 14,
+      "name": "Marjorie Finley"
+    },
+    {
+      "id": "634308dc5d9d58ff60eb1a68",
+      "studentClass": 5,
+      "picture": "https://ibb.co/QFfz11v",
+      "age": 16,
+      "name": "Robinson Odom"
+    },
+    {
+      "id": "634308dc1d8ae69133760b4a",
+      "studentClass": 1,
+      "picture": "https://ibb.co/5F6FFCS",
+      "age": 7,
+      "name": "Meadows Fisher"
+    },
+    {
+      "id": "634308dcc1cf1d408534c78d",
+      "studentClass": 1,
+      "picture": "https://ibb.co/q0srZHZ",
+      "age": 16,
+      "name": "Chandler Rivas"
+    },
+    {
+      "id": "634308dc10235c9c97410273",
+      "studentClass": 5,
+      "picture": "https://ibb.co/QFfz11v",
+      "age": 16,
+      "name": "Carey Sears"
+    },
+    {
+      "id": "634308dcd99bf26fe46152d8",
+      "studentClass": 1,
+      "picture": "https://ibb.co/vQSBSCx",
+      "age": 10,
+      "name": "Diana Mcmillan"
+    }
+  ]
